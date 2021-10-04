@@ -1,0 +1,10 @@
+.about-container{
+    margin-top: 40px;
+}
+
+.school-img{
+    height: 400px;
+    min-height: 350px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px grey;
+}

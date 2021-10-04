@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Reading",
         "category": "Language, Literacy, and Communication",
-        "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.Cum sociis.",
         "group": 25,
         "img": "https://i.ibb.co/d2fHgtP/5.jpg"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Math Club",
         "category": "Mathematics",
-        "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+        "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget.",
         "group": 20,
         "img": "https://i.ibb.co/Z8YChgy/4.jpg"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Science",
         "category": "Science & Technology",
-        "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+        "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo.",
         "group": 10,
         "img": "https://i.ibb.co/p3LJn70/4.jpg"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Painting",
         "category": "Creative Arts",
-        "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+        "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",
         "group": 20,
         "img": "https://i.ibb.co/bRGQkSw/1.jpg"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "Music",
         "category": "Creative Arts",
-        "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
         "group": 15,
         "img": "https://i.ibb.co/M6hBPzm/7.jpg"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "title": "Dance",
         "category": "Creative Arts",
-        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla.",
         "group": 15,
         "img": "https://i.ibb.co/12fqd7K/11.jpg"
     },
@@ -67,16 +67,8 @@
         "id": 9,
         "title": "Summer Camp",
         "category": "Recreation",
-        "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",
         "group": 8,
         "img": "https://i.ibb.co/vmCSjhV/Spanish-School-House-Frisco-Location-taken-on-April-19-2018-for-marketing-purposes.jpg" 
-    },
-    {
-        "id": 10,
-        "title": "Clean & Clear",
-        "category": "Community Service",
-        "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-        "group": 30,
-        "img": "https://i.ibb.co/h1Wvjs4/8.jpg"
     }
 ]
