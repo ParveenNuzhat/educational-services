@@ -4,7 +4,7 @@
 
 # Getting Started with Create React App
 
-This project was bootstrapped with react-bootstrap.
+This project was run with npx create-react-app.
 
 ### `npm run build`
 
@@ -12,4 +12,9 @@ Build folder was created and then was deployed on the netlify.
 
 ### npm install react-router-dom
 
-react-router-dom was installed to nevigate all the pages on the website
+react-router-dom was installed to nevigate all the pages on the website.
+
+### React-bootstrap
+
+react-bootstrap and vanilla css was used to design the website. 
+
