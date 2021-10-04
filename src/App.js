@@ -4,10 +4,10 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import Services from './components/Services/Services';
-import Contacts from './components/Contacts/Contacts';
 import NotFound from './components/NotFound/NotFound';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
+import Events from './components/Events/Events';
 
 
 function App() {
@@ -28,8 +28,8 @@ function App() {
           <Route exact path='/services'>
             <Services></Services>
           </Route>
-          <Route exact path='/contacts'>
-            <Contacts></Contacts>
+          <Route exact path='/events'>
+            <Events></Events>
           </Route>
           <Route exact path='*'>
             <NotFound></NotFound>

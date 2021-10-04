@@ -5,7 +5,7 @@
     background-position: center;
 }
 
-.header-container h2{
+.header-container h2, h6{
     margin: 3% auto;
     text-align: center;
     color: greenyellow;

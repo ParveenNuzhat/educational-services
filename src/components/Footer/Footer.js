@@ -1,5 +1,7 @@
 import React from 'react';
-import { Button, Container, Form } from 'react-bootstrap';
+import { AiOutlineInstagram, AiOutlineYoutube } from 'react-icons/ai';
+import { FaFacebookF } from 'react-icons/fa';
+import { Container } from 'react-bootstrap';
 import './Footer.css'
 
 const Footer = () => {
@@ -11,7 +13,7 @@ const Footer = () => {
                         <div className="row">
                             <div className="col-md-3">
                                 <div className="download-icons p-2">
-                                    <h6 className="mb-3"> Subscribe</h6>
+                                    <h6 className="mb-3 footer-header"> Subscribe</h6>
                                     <form>
                                         <div className="mb-3">
                                             <input type="email" className="form-control" placeholder="Enter Your Email..." />
@@ -24,7 +26,7 @@ const Footer = () => {
                             </div>
                             <div className="col-md-3">
                                 <div className="footer-menu p-2">
-                                    <h6 className="mb-3"> Menu </h6>
+                                    <h6 className="mb-3 footer-header"> Menu </h6>
                                     <ul className="list-unstyled">
                                         <li>
                                             <a href="#privacy"> Privacy Policy </a>
@@ -43,7 +45,7 @@ const Footer = () => {
                             </div>
                             <div className="col-md-3">
                                 <div className="p-2">
-                                    <h6 className="mb-3"> Contact Us </h6>
+                                    <h6 className="mb-3 footer-header"> Contact Us </h6>
                                     <p>
                                         House #__, Road #__,
                                         <br />
@@ -55,16 +57,16 @@ const Footer = () => {
                             </div>
                             <div className="col-md-3">
                                 <div className="social-icons float-md-end p-2">
-                                    <h6 className="mb-3">Get in Touch</h6>
-                                    {/* <a href="https://facebook.com" className="social_bg facebook-bg">
-                                <FaFacebookF />
-                            </a>
-                            <a href="https://iastagram.com" className="social_bg instagram-bg">
-                                <AiOutlineInstagram />
-                            </a>
-                            <a href="https://youtube.com" className="social_bg youtube-bg">
-                                <AiOutlineYoutube />
-                            </a> */}
+                                    <h6 className="mb-3 footer-header">Get in Touch</h6>
+                                    <a href="https://facebook.com" className="social_bg facebook-bg">
+                                        <FaFacebookF />
+                                    </a>
+                                    <a href="https://iastagram.com" className="social_bg instagram-bg">
+                                        <AiOutlineInstagram />
+                                    </a>
+                                    <a href="https://youtube.com" className="social_bg youtube-bg">
+                                        <AiOutlineYoutube />
+                                    </a>
                                 </div>
                             </div>
                         </div>
