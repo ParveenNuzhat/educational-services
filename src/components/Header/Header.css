@@ -3,27 +3,31 @@
     background-size: cover;
     height: 380px;
     background-position: center;
+    box-shadow: 5px 5px 5px rgb(146, 121, 121);
 }
 
-.header-container h2, h6{
-    margin: 3% auto;
+.header-container h2{
+    margin-top: 7%;
     text-align: center;
     color: greenyellow;
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 900;
     font-family: cursive;
 }
 
-.menubar{
+.header-container h6{
+    margin-top: 2%;
+    color: crimson;
+    font-size: 35px;
     text-align: center;
-    padding: 50px;
+    font-weight: 900;
+    font-family: 'Grand Hotel', cursive;
 }
 
 .menu-text{
     margin-right: 50px;
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
-    display: inline-block;
 }

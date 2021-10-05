@@ -1,0 +1,23 @@
+.event-date{
+    background-color: peru;
+}
+
+.event-day{
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    color: #fff;
+    display: block
+}
+
+.event-month{
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    display: block
+}
+
+.divider{
+    color: rgb(156, 153, 153);
+}

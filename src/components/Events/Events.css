@@ -1,0 +1,15 @@
+.event-text{
+    color: #9cc0e5;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.event-img{
+    text-align: center;
+}
+
+.event-img img{
+    height: 150px;
+    min-height: 100px;
+}

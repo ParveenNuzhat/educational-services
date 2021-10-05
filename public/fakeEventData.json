@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Pizza Party",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "30 Oct 2021",
+        "cost": 10,
+        "img": ""
+    },
+    {
+        "id": 2,
+        "title": "Art Contest",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "18 Aug 2021",
+        "cost": "free",
+        "img": ""
+    },
+    {
+        "id": 3,
+        "title": "Visit to Museum",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "11 July 2021",
+        "cost": 15,
+        "img": ""
+    },
+    {
+        "id": 4,
+        "title": "Waffle Breakfast",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "10 April 2021",
+        "cost": 5,
+        "img": ""
+    },
+    {
+        "id": 5,
+        "title": "Science Fair",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "28 March 2021",
+        "cost": 15,
+        "img": ""
+    },
+    {
+        "id": 6,
+        "title": "Summer Camp",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "date": "17 June 2021",
+        "cost": 30,
+        "img": ""
+    }
+]

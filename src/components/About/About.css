@@ -1,10 +1,18 @@
 .about-container{
-    margin-top: 40px;
+    margin: 50px;
 }
 
-.school-img{
-    height: 400px;
+.about-text{
+    margin: 20px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(5, 98, 156);
+}
+
+.school-img img{
+    height: 370px;
     min-height: 350px;
-    border-radius: 5px;
-    box-shadow: 5px 5px 20px grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgrey;
 }
