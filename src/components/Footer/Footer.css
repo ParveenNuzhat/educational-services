@@ -1,7 +1,7 @@
 
 .footer__component {
     background-color: #333e4f;
-    color: #9ca9be;
+    color: white;
 }
 
 .footer-header{
@@ -9,7 +9,7 @@
 }
 
 .footer-menu a{
-    color: #9ca9be;
+    color: white;
 }
 
 .social_bg {
@@ -54,10 +54,3 @@
   .youtube-bg:hover {
     background: #ff0000;
   }
-
-/* .footer_main {
-    .social-icons {
-    
-      
-    }
-  } */
